@@ -5,7 +5,7 @@
 
 
 ABOUT ME<br><br>
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](github.com) [![Instagram](https://img.shields.io/badge/gyueunnim-E4405F?style=flat-square&logo=Instagram&logoColor=white)](github.com) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@gyueunnim) <br><br><br>
+[![Instagram](https://img.shields.io/badge/gyueunnim-E4405F?style=flat-square&logo=Instagram&logoColor=white)](github.com) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black)](https://velog.io/@gyueunnim) <br><br><br>
   
 TECH (Used at least once)<br><br>
 [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](github.com)  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](github.com) [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](github.com)<br>
