@@ -1,5 +1,5 @@
 <div>
-  <h2>Hi, There!👏</h2>
+  <h1>Hi, There!👏</h1>
   <h4>Software, Soongsil Univ.</h4>
   <h4>Awalys Beginner.🤔</h4>
   
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
-  <br/><br/>
+  <br/>
   
   <h2>FE 📘</h2>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
